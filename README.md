@@ -16,11 +16,6 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
-## Experiment:
-
-<img width="884" height="523" alt="image" src="https://github.com/user-attachments/assets/7495fd6c-4c5c-46ab-a7c8-d2ebff90db8b" />
-<img width="881" height="521" alt="image-1" src="https://github.com/user-attachments/assets/2772a5a0-ea24-488d-b439-99de7fdef397" />
-
 ## Program
 ```
 Name : Infant Vijay.A
@@ -90,4 +85,5 @@ else:
 ## Result
 
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+https://github.com/InfantVijay2007/Open-Jacson-Networks.git
 
